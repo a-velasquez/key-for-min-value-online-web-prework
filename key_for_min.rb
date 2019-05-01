@@ -13,5 +13,3 @@ end
 lowestkey
 end 
 
-
-key_for_min_value(veggies)
