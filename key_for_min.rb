@@ -15,5 +15,3 @@ name_hash.each do |key, value|
 end 
 lowestkey
 end 
-
-key_for_min_value(veggies)
